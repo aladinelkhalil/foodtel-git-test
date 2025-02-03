@@ -1,2 +1,3 @@
 nazih seniorita
 nazih valet valet
+console.log
