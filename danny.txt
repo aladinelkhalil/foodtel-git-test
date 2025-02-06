@@ -1,0 +1,4 @@
+danny är här och han är där samtidigt hehe
+en till commit
+ytterligare en till
+en commit från feature branchen
